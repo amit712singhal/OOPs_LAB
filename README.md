@@ -1,2 +1,2 @@
-# OOPs-using-C++-LAB (Ms. Mini Agarwal & Ms. Vaishali)
+# OOPs_using_C++_LAB (Ms. Mini Agarwal & Ms. Vaishali)
 All programs done in OOPs LAB
